@@ -1,18 +1,27 @@
 {
-    "name": "zepto",
-    "filename": "zepto.min.js",
-    "version": "0.6",
-    "description": "Zepto.js is a minimalist framework for mobile WebKit browsers, with a jQuery-compatible chaining syntax.",
-    "homepage": "http://zeptojs.org/",
-    "keywords": [
-       "framework",
-       "toolkit",
-       "mobile",
-       "webkit"
-   ],
-   "maintainers": [
-       {
-           "name": "Thomas Fuchs"
-       } 
-   ]
+  "name": "zepto",
+  "filename": "zepto.min.js",
+  "description": "Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API",
+  "version": "1.0",
+  "homepage": "http://zeptojs.com",
+  "keywords": [
+    "mobile",
+    "framework"
+  ],
+  "maintainers": [
+    {
+      "name": "Thomas Fuchs"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madrobby/zepto.git"
+  },
+  "bugs": "https://github.com/madrobby/zepto/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/madrobby/zepto/master/MIT-LICENSE"
+    }
+  ]
 }
